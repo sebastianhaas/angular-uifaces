@@ -1,0 +1,7 @@
+.panel-body img {
+  border-radius: 10%;
+}
+
+.panel-body img, .panel-body h1 {
+  display: inline;
+}
