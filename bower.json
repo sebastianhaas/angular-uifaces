@@ -1,0 +1,29 @@
+{
+  "name": "angular-uifaces",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sebastianhaas/angular-uifaces",
+  "authors": [
+    "Sebastian Haas <sebastian.haas@grape.at>"
+  ],
+  "description": "AngularJS directive using uifaces.com's API to display sample avatars for UI mockups.",
+  "main": "src/angular-uifaces.js",
+  "moduleType": [],
+  "keywords": [
+    "angularjs",
+    "uifaces",
+    "directive",
+    "mockup",
+    "dummy",
+    "profile",
+    "user",
+    "avatar"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
